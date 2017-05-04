@@ -1,0 +1,5 @@
+route53-update
+.DS_Store
+*.swp
+build
+dist
